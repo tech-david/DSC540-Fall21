@@ -1,2 +1,2 @@
-# DSC540Topic1
-Week 1 submissions
+# DSC540
+Week submissions in subdirectories
